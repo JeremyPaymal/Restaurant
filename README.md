@@ -1,5 +1,5 @@
 # Restaurant
-##  Demo:  Coming soon
+##  Demo:  https://restaurant-website-basic.netlify.app/
 
 ## Description:
 <hr>
