@@ -13,7 +13,7 @@ For this app, I used:
 
 ## Why create this app ?
 <hr>
-As a new and novice front end web developer, I pratice my skills everyday. I wanted to test myself so I reproduce this website and added so features, like the Sign in and Book popup.
+As a new and novice front end web developer, I practice my skills everyday. I wanted to test myself so I reproduce this website and added so features, like the Sign in and Book popup.
 I also used React Reveal for the first time, and I found it pretty useful. 
 <br>
 <br>
