@@ -9,7 +9,7 @@ For this app, I used:
 - HTML
 - CSS
 - Javascript
-- React Js
+- React 
 
 ## Why create this app ?
 <hr>
